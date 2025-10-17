@@ -1,0 +1,13 @@
+body{
+  
+    background-color: darksalmon;
+}
+h1{
+    text-align: center;
+    color: aqua;
+}
+div{
+    border: 7px solid white;
+    text-align: center;
+justify-content: center;
+}
